@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Apple Cider Vinegar",
+    "Description": "Organic, Raw, and Unfiltered",
+    "Price": 8,
+    "PictureUrl": "images/products/acv.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Black Beans",
+    "Description": "Organic, Small Farmer Direct",
+    "Price": 15,
+    "PictureUrl": "images/products/black beans.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Old Country Style Muesli",
+    "Description": "Whole Grain Hot or Cold Cereal",
+    "Price": 8,
+    "PictureUrl": "images/products/bobs muesli.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Chia Seeds",
+    "Description": "Organic, Small Farmer Direct",
+    "Price": 7,
+    "PictureUrl": "images/products/chia seeds.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Banana",
+    "Description": "Organic",
+    "Price": 1,
+    "PictureUrl": "images/products/chiquita banana.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Brown Basmati Rice",
+    "Description": "Gluten Free, Organic",
+    "Price": 12,
+    "PictureUrl": "images/products/della brown rice.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Almonds",
+    "Description": "Whole, Steam Pasteurized",
+    "Price": 10,
+    "PictureUrl": "images/products/kirkland almonds.png",
+    "ProductTypeId": 9,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Organic Virgin Coconut Oil",
+    "Description": "Organic",
+    "Price": 12,
+    "PictureUrl": "images/products/kirkland coconut oil.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Quinoa",
+    "Description": "Organic",
+    "Price": 9,
+    "PictureUrl": "images/products/kirkland quinoa.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Power Cakes",
+    "Description": "Buttermilk Flapjack & Waffle Mix",
+    "Price": 8,
+    "PictureUrl": "images/products/kodiak cakes power cakes.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Mineral Electrolytes",
+    "Description": "Lime",
+    "Price": 300,
+    "PictureUrl": "images/products/onnit electrolytes.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Total Strength + Performance",
+    "Description": "Preworkout Formula",
+    "Price": 40,
+    "PictureUrl": "images/products/onnit pre.png",
+    "ProductTypeId": 10,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Oats",
+    "Description": "100% Whole Grain, Old Fashioned",
+    "Price": 10,
+    "PictureUrl": "images/products/quaker oats.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Simply Granola",
+    "Description": "Oats, Honey, Raisins, & Almonds",
+    "Price": 8,
+    "PictureUrl": "images/products/quaker simply granola.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "100% Whey Protein Isolate",
+    "Description": "Strawberry",
+    "Price": 65,
+    "PictureUrl": "images/products/strawberry isolate.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Strawberry Mass Gainer",
+    "Description": "Strawberry Pastry",
+    "Price": 36,
+    "PictureUrl": "images/products/strawberry mass gainer.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Toor Dal",
+    "Description": "Organic",
+    "Price": 8,
+    "PictureUrl": "images/products/toor dal.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "One",
+    "Description": "Chocolate Shake",
+    "Price": 20,
+    "PictureUrl": "images/products/vega one chocolate.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 11
+  }
+]

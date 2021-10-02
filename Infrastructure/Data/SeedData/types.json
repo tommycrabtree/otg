@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Banana"
+  },
+  {
+    "Id": 2,
+    "Name": "Oats"
+  },
+  {
+    "Id": 3,
+    "Name": "Pancakes"
+  },
+  {
+    "Id": 4,
+    "Name": "Protein Powder"
+  },
+  {
+    "Id": 5,
+    "Name": "Apple Cider Vinegar"
+  },
+  {
+    "Id": 6,
+    "Name": "Oil"
+  },
+  {
+    "Id": 7,
+    "Name": "Seeds"
+  },
+  {
+    "Id": 8,
+    "Name": "Ninja Foodi"
+  },
+  {
+    "Id": 9,
+    "Name": "Almonds"
+  },
+  {
+    "Id": 10,
+    "Name": "Supplements"
+  }
+]
