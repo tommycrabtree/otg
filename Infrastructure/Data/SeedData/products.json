@@ -11,7 +11,7 @@
     "Name": "Black Beans",
     "Description": "Organic, Small Farmer Direct",
     "Price": 15,
-    "PictureUrl": "images/products/black beans.png",
+    "PictureUrl": "images/products/blackbeans.png",
     "ProductTypeId": 8,
     "ProductBrandId": 7
   },
@@ -19,7 +19,7 @@
     "Name": "Old Country Style Muesli",
     "Description": "Whole Grain Hot or Cold Cereal",
     "Price": 8,
-    "PictureUrl": "images/products/bobs muesli.png",
+    "PictureUrl": "images/products/bobsmuesli.png",
     "ProductTypeId": 2,
     "ProductBrandId": 1
   },
@@ -27,7 +27,7 @@
     "Name": "Chia Seeds",
     "Description": "Organic, Small Farmer Direct",
     "Price": 7,
-    "PictureUrl": "images/products/chia seeds.png",
+    "PictureUrl": "images/products/chiaseeds.png",
     "ProductTypeId": 7,
     "ProductBrandId": 7
   },
@@ -35,7 +35,7 @@
     "Name": "Banana",
     "Description": "Organic",
     "Price": 1,
-    "PictureUrl": "images/products/chiquita banana.png",
+    "PictureUrl": "images/products/chiquitabanana.png",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
@@ -43,7 +43,7 @@
     "Name": "Brown Basmati Rice",
     "Description": "Gluten Free, Organic",
     "Price": 12,
-    "PictureUrl": "images/products/della brown rice.png",
+    "PictureUrl": "images/products/dellabrownrice.png",
     "ProductTypeId": 8,
     "ProductBrandId": 3
   },
@@ -51,7 +51,7 @@
     "Name": "Almonds",
     "Description": "Whole, Steam Pasteurized",
     "Price": 10,
-    "PictureUrl": "images/products/kirkland almonds.png",
+    "PictureUrl": "images/products/kirklandalmonds.png",
     "ProductTypeId": 9,
     "ProductBrandId": 4
   },
@@ -59,7 +59,7 @@
     "Name": "Organic Virgin Coconut Oil",
     "Description": "Organic",
     "Price": 12,
-    "PictureUrl": "images/products/kirkland coconut oil.png",
+    "PictureUrl": "images/products/kirklandcoconutoil.png",
     "ProductTypeId": 6,
     "ProductBrandId": 4
   },
@@ -67,7 +67,7 @@
     "Name": "Quinoa",
     "Description": "Organic",
     "Price": 9,
-    "PictureUrl": "images/products/kirkland quinoa.png",
+    "PictureUrl": "images/products/kirklandquinoa.png",
     "ProductTypeId": 7,
     "ProductBrandId": 4
   },
@@ -75,7 +75,7 @@
     "Name": "Power Cakes",
     "Description": "Buttermilk Flapjack & Waffle Mix",
     "Price": 8,
-    "PictureUrl": "images/products/kodiak cakes power cakes.png",
+    "PictureUrl": "images/products/kodiakcakespowercakes.png",
     "ProductTypeId": 3,
     "ProductBrandId": 5
   },
@@ -83,7 +83,7 @@
     "Name": "Mineral Electrolytes",
     "Description": "Lime",
     "Price": 300,
-    "PictureUrl": "images/products/onnit electrolytes.png",
+    "PictureUrl": "images/products/onnitelectrolytes.png",
     "ProductTypeId": 10,
     "ProductBrandId": 9
   },
@@ -91,7 +91,7 @@
     "Name": "Total Strength + Performance",
     "Description": "Preworkout Formula",
     "Price": 40,
-    "PictureUrl": "images/products/onnit pre.png",
+    "PictureUrl": "images/products/onnitpre.png",
     "ProductTypeId": 10,
     "ProductBrandId": 9
   },
@@ -99,7 +99,7 @@
     "Name": "Oats",
     "Description": "100% Whole Grain, Old Fashioned",
     "Price": 10,
-    "PictureUrl": "images/products/quaker oats.png",
+    "PictureUrl": "images/products/quakeroats.png",
     "ProductTypeId": 2,
     "ProductBrandId": 10
   },
@@ -107,7 +107,7 @@
     "Name": "Simply Granola",
     "Description": "Oats, Honey, Raisins, & Almonds",
     "Price": 8,
-    "PictureUrl": "images/products/quaker simply granola.png",
+    "PictureUrl": "images/products/quakersimplygranola.png",
     "ProductTypeId": 2,
     "ProductBrandId": 10
   },
@@ -115,7 +115,7 @@
     "Name": "100% Whey Protein Isolate",
     "Description": "Strawberry",
     "Price": 65,
-    "PictureUrl": "images/products/strawberry isolate.png",
+    "PictureUrl": "images/products/strawberryisolate.png",
     "ProductTypeId": 4,
     "ProductBrandId": 8
   },
@@ -123,7 +123,7 @@
     "Name": "Strawberry Mass Gainer",
     "Description": "Strawberry Pastry",
     "Price": 36,
-    "PictureUrl": "images/products/strawberry mass gainer.png",
+    "PictureUrl": "images/products/strawberrymassgainer.png",
     "ProductTypeId": 4,
     "ProductBrandId": 8
   },
@@ -131,7 +131,7 @@
     "Name": "Toor Dal",
     "Description": "Organic",
     "Price": 8,
-    "PictureUrl": "images/products/toor dal.png",
+    "PictureUrl": "images/products/toordal.png",
     "ProductTypeId": 6,
     "ProductBrandId": 8
   },
@@ -139,7 +139,7 @@
     "Name": "One",
     "Description": "Chocolate Shake",
     "Price": 20,
-    "PictureUrl": "images/products/vega one chocolate.png",
+    "PictureUrl": "images/products/vegaonechocolate.png",
     "ProductTypeId": 4,
     "ProductBrandId": 11
   }
