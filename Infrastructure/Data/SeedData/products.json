@@ -132,8 +132,8 @@
     "Description": "Organic",
     "Price": 8,
     "PictureUrl": "images/products/toordal.png",
-    "ProductTypeId": 6,
-    "ProductBrandId": 8
+    "ProductTypeId": 8,
+    "ProductBrandId": 6
   },
   {
     "Name": "One",
